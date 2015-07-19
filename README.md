@@ -5,7 +5,7 @@ version that's part of the FindBugs package.
 
 To use it locally:
 
-    git clone https://github.com/thesegovia/maven-shared-jar
+    git clone https://github.com/thesegovia/maven-shared-jar.git
     cd maven-shared-jar
     mvn install
 
